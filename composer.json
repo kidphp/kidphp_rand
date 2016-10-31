@@ -1,0 +1,14 @@
+{
+    "name": "kidphp/kidphp_rand",
+    "description": "about rand function",
+    "homepage": "http://www.kidphp.com",
+    "authors": [
+        {
+            "name": "kid",
+            "email": "3403682791@qq.com"
+        }
+    ],
+    "require": {
+        "php": ">=5.3.3",
+    }
+}
