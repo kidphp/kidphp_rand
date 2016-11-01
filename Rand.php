@@ -2,7 +2,7 @@
 #=================================================================
 #  A rand calculate method package
 #
-# kidphp_check
+# kidphp_check.
 # Copyright (c) 2016 vimkid
 #
 # functionList: arrayToObject    -> 生成指定数量不重复数据,返回数组
