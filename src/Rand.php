@@ -9,7 +9,7 @@
 #				objectToArray    -> 对象转数组
 #=================================================================
 
-namespace kidphp\kidphp_rand;
+namespace Kidphp\KidphpRand;
 class Rand {
 	/** 生成指定数量不重复随机数
 	 * @begin  随机数开始值
