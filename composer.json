@@ -11,6 +11,13 @@
     "require": {
         "php": ">=5.3.3"
     },
+    "keywords": [
+        "随机数获取",
+        "随机数",
+        "随机数封装方法",
+        "random",
+        "random number"
+    ],
     "autoload": {
         "psr-4": {
             "Kidphp\\KidphpRand\\": "src/"
