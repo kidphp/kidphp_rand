@@ -5,8 +5,8 @@
 # kidphp_check.
 # Copyright (c) 2016 vimkid
 #
-# functionList: arrayToObject    -> 生成指定数量不重复数据,返回数组
-#				objectToArray    -> 对象转数组
+# functionList: 
+#       noRepeatReand    -> 生成指定数量不重复随数,返回数组
 #=================================================================
 
 namespace Kidphp\KidphpRand;
